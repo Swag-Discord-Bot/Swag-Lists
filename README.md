@@ -19,4 +19,4 @@ If you find an issue with anything (grammar, duplicates, etc) create an issue sp
 
 ## Pull Requests
 
-If you diced to create a pull request, please do not change the formatting. We also ask that you do not remove any items from the list, instead create an issue specifying why the item(s) should be removed. 
+If you decide to create a pull request, please do not change the formatting. We also ask that you do not remove any items from the list, instead create an issue specifying why the item(s) should be removed. 
