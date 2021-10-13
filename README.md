@@ -7,7 +7,7 @@ This repository is currently under the [Apache License 2.0](LICENSE).
 
 # Contributing
 
-If you would like to contribute, you can create an issue, or create a pull request. 
+If you would like to contribute, you can [create an issue](https://github.com/Swag-Discord-Bot/Swag-Lists/issues), or [create a pull request](https://github.com/Swag-Discord-Bot/Swag-Lists/pulls). 
 
 ## Creating Issues
 
